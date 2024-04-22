@@ -1,5 +1,5 @@
 ### Napredno Web programiranje 
-## Laboratorijske vježbe – vježba 5
+## Laboratorijske vježbe – vježba 6
 
 ### Zadatak 1
 #### Prikaz svih zadataka
