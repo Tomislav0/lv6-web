@@ -1,3 +1,19 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+### Napredno Web programiranje 
+## Laboratorijske vježbe – vježba 5
+
+### Zadatak 1
+#### Prikaz svih zadataka
+![image](https://github.com/Tomislav0/lv6-web/assets/72692790/9cf2988d-7eb2-4827-b819-382941f92d39)
+
+#### Dodavanje novog zadataka
+![image](https://github.com/Tomislav0/lv6-web/assets/72692790/c7b2faf1-a1c5-42c6-b65f-beaf04d2856a)
+
+#### Pregled zadatka
+![image](https://github.com/Tomislav0/lv6-web/assets/72692790/8e483ff1-a375-437a-a5ed-159a771c0d7b)
+
+
 ## Instalacija
 - Potrebno je imati instaliranu MongoDB bazu podataka
 - Instalarati module sa npm install 
@@ -6,7 +22,7 @@
 
 ## Upotreba
 - Aplikacija pri pokretanju otvara stranicu dobrodošlice
-- Napravljena je schema za novi objekt zvan `blobs`
-- Pristupa im se sa rutom http://127.0.0.1:3000/blobs
-- Novi objekt se dodaje sa http://127.0.0.1:3000/blobs/new 
+- Napravljena je schema za novi objekt zvan `project`
+- Pristupa im se sa rutom http://127.0.0.1:3000/projects
+- Novi objekt se dodaje sa http://127.0.0.1:3000/projects/new 
 - Nakon unosa vodi vas na index stranicu gdje imate `Show`, `Edit` ili `Delete` 
